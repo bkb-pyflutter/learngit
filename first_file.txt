@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 adding first line
 added somehting crazy
+=======
+
+>>>>>>> parent of 68cc7b3 (added 2nd change after a git diff)
